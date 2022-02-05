@@ -1,0 +1,9 @@
+/KiCad/*.bck
+/KiCad/*.dcm
+/KiCad/fp-info-cache
+/KiCad/fp-lib-table
+/KiCad/sym-lib-table
+/KiCad/*.sch-bak
+/KiCad/*.kicad_pcb-bak
+/KiCad/*-cache.lib
+/KiCad/.*

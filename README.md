@@ -1,6 +1,8 @@
 # retro-clock_tmct
 All discrete logic clock
 
+![Retro-clock picture](https://ss1.xrea.com/tmct.s1009.xrea.com/img/work/td-xx-7e4m01/retro_clock1.jpg)
+
 This is a clock made by combining only logic ICs, so-called DIP components, without using a microcontroller.  
 KiCad project files are available.
 
